@@ -4,7 +4,7 @@
     <!-- Brand Logo -->
     <a href="index3.html" class="brand-link">
         <img src="{{asset('AdminLTE-3.2.0')}}/dist/img/ponorogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-        <span class="brand-text font-weight-light">Desa Purwosari</span>
+        <span class="brand-text font-weight-light">Desa Ngrupit</span>
     </a>
 
     <!-- Sidebar -->
